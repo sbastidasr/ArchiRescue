@@ -5,5 +5,19 @@
 
 body {
   min-height: 2000px;
-  padding-top: 70px;
+  padding-top: 50px;
+//  background-color: black;
+}
+.black-part{
+  background-color:black;
+  img{
+    width: 100%;
+  }
+}
+.gray-part{
+  background-color:#F5F5F5;
+}
+#nav-logo{
+  margin-top: -8%;
+  height:150%;
 }
