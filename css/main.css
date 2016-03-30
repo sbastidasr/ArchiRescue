@@ -5765,9 +5765,13 @@ body {
   margin-top: -8%;
   height: 150%; }
 
+.right-align {
+  text-align: right; }
+
 .reduced-body {
-  padding-left: 15%;
-  padding-right: 15%; }
+  padding-left: 12%;
+  padding-right: 12%;
+  word-wrap: break-all; }
 
 .row {
   overflow: hidden; }
