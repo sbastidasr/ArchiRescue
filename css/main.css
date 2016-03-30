@@ -5756,7 +5756,11 @@ body {
 
 h1 {
   font-weight: bold;
-  font-size: 650%; }
+  font-size: 650%;
+  margin: 70px 0 70px 0; }
+
+ul {
+  padding-left: 10px; }
 
 .black-part {
   background-color: black; }
@@ -5780,3 +5784,6 @@ h1 {
 
 .row {
   overflow: hidden; }
+
+.content {
+  font-size: 100%; }
