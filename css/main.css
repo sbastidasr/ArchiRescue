@@ -5764,3 +5764,10 @@ body {
 #nav-logo {
   margin-top: -8%;
   height: 150%; }
+
+.reduced-body {
+  padding-left: 15%;
+  padding-right: 15%; }
+
+.row {
+  overflow: hidden; }
