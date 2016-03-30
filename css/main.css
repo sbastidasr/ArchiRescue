@@ -5783,7 +5783,11 @@ ul {
   word-wrap: break-all; }
 
 .row {
-  overflow: hidden; }
+  overflow: hidden;
+  margin: 0 0 3% 0; }
+
+.container-fluid {
+  padding: 0 0 0 0; }
 
 .content {
   font-size: 100%; }
