@@ -5751,7 +5751,12 @@ button.close {
 
 body {
   min-height: 2000px;
-  padding-top: 50px; }
+  padding-top: 50px;
+  font-family: helvetica; }
+
+h1 {
+  font-weight: bold;
+  font-size: 650%; }
 
 .black-part {
   background-color: black; }
